@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--自定义属性名,定义公共属性-->
+    <attr name="iBNum" format="float" />
+    <attr name="iBColor" format="color" />
+    <attr name="iMNum" format="float" />
+    <attr name="iMColor" format="color" />
+    <attr name="iSNum" format="float" />
+    <attr name="iSColor" format="color" />
+    <attr name="oBNum" format="float" />
+    <attr name="oBColor" format="color" />
+    <attr name="oMNum" format="float" />
+    <attr name="oMColor" format="color" />
+    <attr name="oSNum" format="float" />
+    <attr name="oSColor" format="color" />
+    <attr name="StrokeWidth" format="integer"/>
+    <attr name="textSizes" format="dimension" />
+    <attr name="isAnimation" format="boolean"/>
+    <attr name="AnimationSpeed" format="integer"/>
+    <attr name="circleCenterColor" format="color"/>
+
+    <!--自定义控件的主题样式-->
+    <declare-styleable name="MyPre">
+        <attr name="iBNum" />
+        <attr name="iBColor" />
+        <attr name="iMNum" />
+        <attr name="iMColor" />
+        <attr name="iSNum" />
+        <attr name="iSColor" />
+        <attr name="oBNum" />
+        <attr name="oBColor" />
+        <attr name="oMNum" />
+        <attr name="oMColor" />
+        <attr name="oSNum" />
+        <attr name="oSColor" />
+        <attr name="StrokeWidth" />
+        <attr name="textSizes" />
+        <attr name="isAnimation" />
+        <attr name="AnimationSpeed"/>
+        <attr name="circleCenterColor"/>
+    </declare-styleable>
+</resources>

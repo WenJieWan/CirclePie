@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_theme">#489cfa</color>
+    <color name="risk_mid_bg">#fff9c307</color>
+    <color name="risk_low_bg">#ff8fd52b</color>
+    <color name="risk_high_bg">#ffff6c00</color>
+    <color name="E7_gray">#E7E7E7</color>
+</resources>
