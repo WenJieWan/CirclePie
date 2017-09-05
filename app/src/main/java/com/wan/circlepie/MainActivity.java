@@ -20,5 +20,6 @@ public class MainActivity extends AppCompatActivity {
         circlePieValues.add(new CirclePieValue("文本2",25f,getResources().getColor(R.color.risk_high_bg)));
         circlePieValues.add(new CirclePieValue("文本3",25f,getResources().getColor(R.color.risk_low_bg)));
         college_num_pie.setPieData(circlePieValues);
+
     }
 }
